@@ -1,0 +1,40 @@
+.bg-login{
+   background-color:#D3D3D3;
+   min-height: 100vh;
+   /* z-index: 999;
+   position: relative; */
+}
+.text-white{
+   color:white;
+}
+.d-video{
+   padding:40px;
+   background:rgba(43, 144, 217, 0.9);
+}
+.title-vid{
+   font-weight: 600;
+   color:#ea4335;
+   font-size:1.1em;
+   margin-top:2.5em;
+}
+/* style btn continuar */
+.btn-cont{
+   font-size:1rem;
+   border-radius: 10rem;
+   padding: .4rem;
+   font-variant-caps: all-petite-caps;
+}
+
+
+/* MEDIA QUERY 
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {  }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {  }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px)  }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {  }*/
